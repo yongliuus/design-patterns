@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bridge;
 
 public class BridgeDemo {
     public static void main(String[] args) {

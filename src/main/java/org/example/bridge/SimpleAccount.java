@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bridge;
 
 class SimpleAccount extends AbstractAccount {
     private int balance;

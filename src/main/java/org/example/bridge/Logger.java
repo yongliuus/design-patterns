@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bridge;
 
 // Logger has two implementations: info and warning
 @FunctionalInterface

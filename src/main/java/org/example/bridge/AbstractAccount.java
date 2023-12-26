@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bridge;
 
 abstract class AbstractAccount {
     // Bridge Pattern Here:
